@@ -6,7 +6,7 @@
 <sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
 <input>
-  <net-file value="osm2.net.xml"/>
+  <net-file value="osm.net.xml.gz"/>
   <route-files value="gtfs_out/gtfs_publictransport.rou.xml,taxi_trips_019.rou.xml,persontrips.xml"/>
   <additional-files value="gtfs_out/gtfs_publictransport.add.xml,
                            gtfs_out/pt_vtypes.xml,
@@ -32,3 +32,4 @@
     </report>
 
 </sumoConfiguration>
+
