@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vTypeDistribution id="taxi_dist">
+    <vType id="shared_bike" length="2.00" vClass="taxi" guiShape="bicycle" desiredMaxSpeed="5.55" personCapacity="1">
+        <param key="has.taxi.device" value="false"/>
+    </vType>
+</vTypeDistribution>
+
